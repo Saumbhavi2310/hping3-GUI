@@ -1,0 +1,3 @@
+kivy
+subprocess
+ipaddress
